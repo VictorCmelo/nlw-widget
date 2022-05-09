@@ -1,6 +1,5 @@
 import { ArrowArcRight, ArrowLeft, Camera } from "phosphor-react";
 import { FormEvent, useState } from "react";
-
 import { api } from "../../../lib/api";
 import { CloseButton } from "../../CloseButton";
 import { Loading } from "../../Loading";
